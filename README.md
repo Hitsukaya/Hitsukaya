@@ -6,7 +6,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
-# 👋 Hi, I'm Valentin Hitsukaya
+# 👋 Hi, I'm Valentaizar Hitsukaya
 
 🚀 Full-Stack Web Developer • Laravel Enthusiast • Performance-Oriented • Based in Romania 🇷🇴
 
