@@ -9,8 +9,7 @@
 - 🔥 **Laravel (Full Stack)** — Jetstream, Livewire, Blade, Volt
 - ⚡ **Vite** + Tailwind CSS — ultra-fast asset bundling and styling
 - 📦 **MySQL / PostgreSQL** — relational data done right
-- 🌐 **AlmaLinux** + Nginx + SSL — self-hosted, secure & optimized environments
-- 📈 **100/100/100/100 Google PageSpeed Scores** — yes, even without React or Vue!
+- 🌐 **AlmaLinux** + Nginx/OpenLiteSpeed/ + SSL — self-hosted, secure & optimized environments
 
 ---
 
