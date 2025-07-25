@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Valentaizar Hitsukaya
 
-🚀 Full-Stack Web Developer • Laravel Enthusiast • Performance-Oriented • Based in Romania 🇷🇴
+🚀 Full-Stack Web Developer • Laravel Enthusiast • Performance-Oriented 
 
 ---
 
