@@ -41,4 +41,7 @@
 
 - 📧 Email: vhitsukaya@gmail.com / office@hitsukaya.com  
 - 🌐 Portfolio: [https://hitsukaya.com](https://hitsukaya.com)  
-- 📝 Blog: [https://hitsukaya.com/blog](https://hitsukaya.com/blog)  
+- 📝 Blog: [https://hitsukaya.com/blog](https://hitsukaya.com/blog)
+
+  ![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hitsukaya&show_icons=true&theme=radical)
+
