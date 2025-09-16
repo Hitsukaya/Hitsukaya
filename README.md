@@ -5,6 +5,9 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+[![Fail2Ban](https://img.shields.io/badge/Fail2Ban-protected-brightgreen)](https://www.fail2ban.org/)
+[![Nginx](https://img.shields.io/badge/Nginx-webserver-blue)](https://nginx.org/)
+
 
 # 👋 Hi, I'm Valentaizar Hitsukaya
 
