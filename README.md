@@ -7,6 +7,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 [![Fail2Ban](https://img.shields.io/badge/Fail2Ban-protected-brightgreen)](https://www.fail2ban.org/)
 [![Nginx](https://img.shields.io/badge/Nginx-webserver-blue)](https://nginx.org/)
+![DevOps](https://img.shields.io/badge/-DevOps-orange?style=flat)
 
 
 # 👋 Hi, I'm Valentaizar Hitsukaya
