@@ -11,7 +11,7 @@
 
 # 👋 Hi, I'm Valentaizar Hitsukaya
 
-🚀 Full-Stack Web Developer • Laravel Enthusiast • Performance-Oriented 
+🚀 Full-Stack Web Developer • Laravel Enthusiast • DevOps & Performance-Oriented
 
 ---
 
