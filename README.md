@@ -55,5 +55,5 @@ Protect your server with Fail2Ban – a custom Fail2Ban filter to protect Larave
 - 🌐 Portfolio: [https://hitsukaya.com](https://hitsukaya.com)  
 - 📝 Blog: [https://hitsukaya.com/blog](https://hitsukaya.com/blog)
 
-  ![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hitsukaya&show_icons=true&theme=radical)
+ 
 
