@@ -49,6 +49,11 @@ Protect your server with Fail2Ban – a custom Fail2Ban filter to protect Larave
 - https://github.com/Hitsukaya/Fail2Ban-filter-to-protect-Laravel-WordPress-and-Node.js-frameworks-Next.js-Nuxt-
 ---
 
+PHP-FPM Pool Configuration - "www"
+This is a custom PHP-FPM pool configuration optimized for Unix socket and ondemand process management.
+It is designed for speed, stability, and security, making it suitable for modern web servers of any size.
+- https://github.com/Hitsukaya/PHP-FPM-Pool-Configuration
+---
 ## 🤝 Let's connect!
 
 - 📧 Email: vhitsukaya@gmail.com / office@hitsukaya.com  
