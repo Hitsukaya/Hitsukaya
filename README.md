@@ -58,7 +58,7 @@ It is designed for speed, stability, and security, making it suitable for modern
 ## NGINX TEMPLATE  Ready for quick deployment
 - Nginx template for “Coming Soon” pages with HTTPS redirect and basic security rules.
 - Ready for quick deployment.
-- https://github.com/Hitsukaya/
+- https://github.com/Hitsukaya/nginx-hitsuka
 ---
 ## 🤝 Let's connect!
 
