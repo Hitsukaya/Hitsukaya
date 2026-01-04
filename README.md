@@ -54,6 +54,11 @@ This is a custom PHP-FPM pool configuration optimized for Unix socket and ondema
 It is designed for speed, stability, and security, making it suitable for modern web servers of any size.
 - https://github.com/Hitsukaya/PHP-FPM-Pool-Configuration
 ---
+
+NGINX TEMPLATE - Ready for quick deployment
+Nginx template for “Coming Soon” pages with HTTPS redirect and basic security rules. Ready for quick deployment.
+- https://github.com/Hitsukaya/
+---
 ## 🤝 Let's connect!
 
 - 📧 Email: vhitsukaya@gmail.com / office@hitsukaya.com  
