@@ -59,6 +59,11 @@ It is designed for speed, stability, and security, making it suitable for modern
 - Nginx template for “Coming Soon” pages with HTTPS redirect and basic security rules.
 - Ready for quick deployment.
 - https://github.com/Hitsukaya/nginx-hitsuka
+
+## SELINUX
+- SELinux (Security-Enhanced Linux) is a kernel security module that provides access control security policies, including mandatory access controls (MAC). 
+- It helps prevent unauthorized access and limits potential damage from compromised services.
+- https://github.com/Hitsukaya/SELinux
 ---
 ## 🤝 Let's connect!
 
