@@ -65,6 +65,13 @@ It is designed for speed, stability, and security, making it suitable for modern
 - It helps prevent unauthorized access and limits potential damage from compromised services.
 - https://github.com/Hitsukaya/SELinux
 ---
+
+## SFTP ON / OFF Access Toggle
+- This document describes a temporary and controlled SFTP permission escalation mechanism using POSIX ACLs (setfacl).
+- The goal is to allow full SFTP access only while working, then revoke it cleanly to reduce attack surface and human error.
+- https://github.com/Hitsukaya/sftp-on-off-access-toggle
+---
+
 ## 🤝 Let's connect!
 
 - 📧 Email: vhitsukaya@gmail.com / office@hitsukaya.com  
