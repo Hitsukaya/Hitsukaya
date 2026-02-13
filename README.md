@@ -13,6 +13,10 @@
 
 🚀 Full-Stack Web Developer • Laravel Enthusiast • DevOps & Performance-Oriented
 
+  - Full-Stack Web Developer & DevSecOps Enthusiast.
+  - Building lean self-hosted security frameworks for Linux servers.
+  - Currently working on Doragon Framework — powered by Hitsukaya.
+
 ---
 
 ## 🛠️ My Core Stack
