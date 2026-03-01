@@ -78,7 +78,7 @@ It is designed for speed, stability, and security, making it suitable for modern
 - https://github.com/Hitsukaya/sftp-on-off-access-toggle
 ---
 
-## Doragon Framework 🚀 (Coming Soon)  [![Doragon Framework](https://img.shields.io/badge/Doragon%20Framework-red?style=flat)](https://github.com/Hitsukaya/doragon-framework)
+## Doragon Framework 🚀  [![Doragon Framework](https://img.shields.io/badge/Doragon%20Framework-red?style=flat)](https://github.com/Hitsukaya/doragon-framework)
 > Powered by Hitsukaya
 - Doragon Framework is a lightweight, self-hosted deployment and security framework for Linux VPS servers.
 - It builds a production-ready stack with minimal overhead, using native system tools close to the kernel layer: systemd, SELinux, firewalld/iptables, Fail2Ban, Nginx, Unix sockets.
