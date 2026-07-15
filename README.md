@@ -1,14 +1,3 @@
-[![Hitsukaya](https://img.shields.io/badge/Hitsukaya-red)](https://hitsukaya.com)
-[![PageSpeed Score](https://img.shields.io/badge/PageSpeed-100%25-brightgreen)](https://pagespeed.web.dev/)
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel)
-![Livewire](https://img.shields.io/badge/-Livewire-purple?style=flat&logo=laravel)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-[![Fail2Ban](https://img.shields.io/badge/Fail2Ban-protected-brightgreen)](https://www.fail2ban.org/)
-[![Nginx](https://img.shields.io/badge/Nginx-webserver-blue)](https://nginx.org/)
-[![Doragon Framework](https://img.shields.io/badge/Doragon%20Framework-red?style=flat)](https://github.com/Hitsukaya/doragon-framework)
-
 # 👋 Hi, I'm Valentaizar Hitsukaya
 ### Systems & Compiler Engineer • Creator of HSK (Hitsukaya System Kernel) 🐉
 
