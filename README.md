@@ -14,6 +14,7 @@ Currently, my main focus is **HSK**—a custom-built, validator-first runtime la
 *   **[Kumo Server Node](https://github.com/Hitsukaya/kumo-hsk)**: A zero-dependency native web server and microservice orchestrator built to run directly on bare UNIX environments.
 *   **[Doragon Framework](https://github.com/Hitsukaya/doragon-hsk)**: Lightweight, type-safe system automation and security orchestration for UNIX (FreeBSD/Linux), replacing fragile scripts.
 *   **[Monica HSK](https://github.com/Hitsukaya/monica-hsk)**: High-performance computational modeling and mathematical simulation scripts, executing lightning-fast data operations on local nodes.
+*   **[HSK VSCODE EXTENSION](https://github.com/Hitsukaya/hsk_vscode_extension)**: The official IDE development suite for the HSK ecosystem. This extension brings native syntax highlighting, code snippets, and       structural language support for HSK (.hsk), HSKON (.hskon), and HCONF (.hconf) files in Visual Studio Code..
 
 ---
 
