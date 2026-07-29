@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Valentaizar Hitsukaya
 ### Systems & Compiler Engineer • Creator of HSK (Hitsukaya System Kernel)
 
-I am a systems architect dedicated to building lean, high-performance, and deeply secure software. I reject modern bloated frameworks in favor of absolute speed, predictability, and sovereign infrastructure. 
+I am a systems architect dedicated to building lean, high-performance, and deeply secure software. Systems & Compiler Engineer focused on deterministic software, validation-first architectures and high-performance runtime systems. Creator of the HSK (Hitsukaya System Kernel) Platform.
 
 Currently, my main focus is **HSK**—a custom-built, validator-first runtime language and system kernel engineered for bare-metal performance and deterministic execution.
 
