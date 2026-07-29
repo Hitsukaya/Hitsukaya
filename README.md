@@ -11,6 +11,7 @@ Currently, my main focus is **HSK**—a custom-built, validator-first runtime la
 *This profile hosts the official application layer, package ecosystem, and automation scripts powered by the HSK Native Engine:*
 
 *   **[HSK Core Engine](https://github.com/Hitsukaya)**: The proprietary runtime core featuring a rigid semantic validator and custom AST parser designed to eliminate "coding in the dark" at the architecture level.
+*   **[HSK Specification]((https://github.com/Hitsukaya/hsk-specification))**: The official language and platform specification of the HSK Platform..
 *   **[Kumo Server Node](https://github.com/Hitsukaya/hsk-kumo)**: A zero-dependency native web server and microservice orchestrator built to run directly on bare UNIX environments.
 *   **[Doragon Framework](https://github.com/Hitsukaya/doragon-hsk)**: Lightweight, type-safe system automation and security orchestration for UNIX (FreeBSD/Linux), replacing fragile scripts.
 *   **[Monica HSK](https://github.com/Hitsukaya/monica-hsk)**: High-performance computational modeling and mathematical simulation scripts, executing lightning-fast data operations on local nodes.
