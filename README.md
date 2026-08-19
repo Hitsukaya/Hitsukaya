@@ -4,7 +4,23 @@
 I am a systems architect dedicated to building lean, high-performance, and deeply secure software. Systems & Compiler Engineer focused on deterministic software, validation-first architectures and high-performance runtime systems. Creator of the HSK (Hitsukaya System Kernel) Platform.
 
 Currently, my main focus is **HSK**—a custom-built, validator-first runtime language and system kernel engineered for bare-metal performance and deterministic execution.
-
+                         HSK
+                          │
+          ┌───────────────┼───────────────┐
+          │               │               │
+      Doragon          MONICA           KUMO
+          │               │               │
+   Infrastructure      Scientific       Web / Cloud
+   Automation          Computing        Microservices
+   DevSecOps           Simulation       Native Server
+          │               │               │
+          └───────────────┼───────────────┘
+                          │
+                  HSK Runtime/Core
+                          │
+             ┌────────────┼────────────┐
+             │            │            │
+           .hsk        .hconf       .hskon
 ---
 
 ## 🚀 The HSK Ecosystem (Under Active R&D)
